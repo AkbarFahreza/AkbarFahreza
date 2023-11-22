@@ -2,7 +2,7 @@
 
 **`Junior Designer/ Frontend Developer`**
 
-I'm an indie junior frontend developer that love learning to code with modern new technology 
+Aspiring graphics designer and front-end developer 🎨💻 | Junior in the coding realm, crafting web experiences with Next.js ⚡ | Diving into the world of mobile development with React Native 📱 | Passionate about merging creativity with code to build captivating digital landscapes. 🚀 Let's create something extraordinary together! ✨
 
    <p align="left">
       <a href="https://github.com/AkbarFahreza?tab=followers">
