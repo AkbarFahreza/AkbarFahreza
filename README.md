@@ -40,5 +40,5 @@ I'm an indie junior frontend developer that love learning to code with modern ne
 
 ### 📺 Contact
 
-[website]: https://dekreza.site
-[twitter]: https://twitter.com/Revernry
+website: https://dekreza.site
+twitter: https://twitter.com/Revernry
