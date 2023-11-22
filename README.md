@@ -2,7 +2,7 @@
 
 **`Junior Designer/ Frontend Developer`**
 
-I'm an indie junior front developer that love learning to code with modern new technology 
+I'm an indie junior frontend developer that love learning to code with modern new technology 
 
    <p align="left">
       <a href="https://github.com/AkbarFahreza?tab=followers">
@@ -22,6 +22,18 @@ I'm an indie junior front developer that love learning to code with modern new t
 <img align="left" alt="NextJs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
 
 <img align="left" alt="NextJs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+
+<img align="left" alt="NextJs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg"/>
+
+<img align="left" alt="NextJs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
+
+<img align="left" alt="NextJs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+
+<img align="left" alt="NextJs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg"/>
+
+<img align="left" alt="NextJs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+
+<img align="left" alt="NextJs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"/>
 <br />
 
 #
