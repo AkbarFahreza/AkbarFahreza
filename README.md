@@ -36,7 +36,7 @@ Aspiring graphics designer and front-end developer 🎨💻 | Junior in the codi
 <img align="left" alt="NextJs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"/>
 <br />
 <br />
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AkbarFahreza&layout=compact&langs_count=8&theme=algolia"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AkbarFahreza&layout=compact&langs_count=20&theme=algolia"/>
 
 ### 📺 Contact
 
