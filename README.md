@@ -37,7 +37,6 @@ Aspiring graphics designer and front-end developer 🎨💻 | Junior in the codi
 <br />
 <br />
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AkbarFahreza&layout=compact&langs_count=8&theme=algolia"/>
-#
 
 ### 📺 Contact
 
