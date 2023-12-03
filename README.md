@@ -1,4 +1,4 @@
-# 🏄‍♂️ DekReza
+# DekReza
 
 **`Junior Designer/ Frontend Developer`**
 
