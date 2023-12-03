@@ -1,6 +1,6 @@
 # DekReza
 
-**`Junior Designer/ Frontend Developer`**
+**`Junior Designer/ Junior Frontend Developer`**
 
 Aspiring graphics designer and front-end developer 🎨💻 | Junior in the coding realm, crafting web experiences with Next.js ⚡ | Diving into the world of mobile development with React Native 📱 | Passionate about merging creativity with code to build captivating digital landscapes. 🚀 Let's create something extraordinary together! ✨
 
