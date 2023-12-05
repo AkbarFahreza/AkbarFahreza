@@ -41,4 +41,5 @@ Aspiring graphics designer and front-end developer 🎨💻 | Junior in the codi
 ### 📺 Contact
 
 website: https://dekreza.site
+<br />
 twitter: https://twitter.com/Revernry
