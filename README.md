@@ -1,4 +1,4 @@
-# DekReza
+# Dek Reza
 
 **`Junior Designer/ Junior Frontend Developer`**
 
