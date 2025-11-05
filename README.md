@@ -1,8 +1,8 @@
 # Dek Reza
 
-**`Junior Designer/ Junior Frontend Developer`**
+**`Designer/ Frontend Developer`**
 
-Aspiring graphics designer and front-end developer 🎨💻 | Junior in the coding realm, crafting web experiences with Next.js ⚡ | Diving into the world of mobile development with React Native 📱 | Passionate about merging creativity with code to build captivating digital landscapes. 🚀 Let's create something extraordinary together! ✨
+Hi am a self- taught Front- End Developer specializing in Website Development and User Interface (UI) design. I currently work as a freelancer, creating company profile websites and offering a Custom Stream Widget development for VTubers and Streamers. I am also building my own startup with friends, 'Kumake Studio'. Known online as 'DekReza', my work in the streaming community has earned recognition, including follows on X/ Twitter from top Indonesian VTubers like Kureiji Ollie (Hololive ID), Alia Adelia (Maha5), Mikazuki Arion (AKA Virtual), etc.✨
 
    <p align="left">
       <a href="https://github.com/AkbarFahreza?tab=followers">
